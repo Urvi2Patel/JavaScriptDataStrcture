@@ -1,4 +1,4 @@
 # JavaScriptDataStrcture
 
 
-Hi, This Repo is created For Data structure Algo and Common Design Practices in Javascript.
+Hi, This Repo is created For Data structure, Algo and Common Design Practices in Javascript.
