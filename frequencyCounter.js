@@ -8,6 +8,6 @@ function countFrequency(arr) {
     for(let x of arr) {
         obj[x] ? obj[x] = obj[x] + 1 : obj[x] = 1 ;
     }
-    return obj
+    return obj;
 }
 countFrequency([1,2,4,5,6,1,2])
